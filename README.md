@@ -1,4 +1,8 @@
 ## STOP FESNUK!
+
+https://addons.mozilla.org/en-US/firefox/addon/no-more-fesnuk/
+
+
 ## STOP FESNUK!
 ## STOP FESNUK!
 ## STOP FESNUK!
