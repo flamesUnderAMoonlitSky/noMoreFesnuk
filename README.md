@@ -1,9 +1,13 @@
-https://addons.mozilla.org/en-US/firefox/addon/no-more-fesnuk/
+
 Simple addons for zen browser / mozzila to redirect facebook to random programming problem!
 
+Available on: [Mozilla Add-ons page](https://addons.mozilla.org/en-US/firefox/addon/no-more-fesnuk/)
 
-Currently added website:
--Leetcode
--Hackerrank
--Codingame
--AtCoder
+
+## Supported Coding Platforms
+
+For now:
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [CodinGame](https://www.codingame.com/)
+- [AtCoder](https://atcoder.jp/)
